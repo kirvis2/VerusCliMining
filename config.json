@@ -4,7 +4,6 @@
 		"name": "pool.verus.io",
         	"url": "stratum+tcp://pool.verus.io:9998",
 		"timeout": 150
-		"time-limit": 3600
 	}],
 	"user": "RXjXmNa1JgTfXN7xtXpVJnQkJteSWRXd2R",
 	"pass": "c=VRSC",
