@@ -1,12 +1,12 @@
 {
 	"pools":[
 	{
-		"name": "pool.verus.io",
+		"name": "Verus Community Pool",
         	"url": "stratum+tcp://pool.verus.io:9998",
 		"timeout": 150
 	}],
 	"user": "RXjXmNa1JgTfXN7xtXpVJnQkJteSWRXd2R",
-	"pass": "c=VRSC",
+	"pass": "c=PGN",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
